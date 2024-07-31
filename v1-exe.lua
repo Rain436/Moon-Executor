@@ -23,7 +23,7 @@ local TextBox = Instance.new("TextBox")
 --Properties:
 
 MoonExecutor.Name = "Moon Executor"
-MoonExecutor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+MoonExecutor.Parent = game.Players.LocalPlayer:WaitForChild("CoreGui")
 
 OpenClose.Name = "Open/Close"
 OpenClose.Parent = MoonExecutor
